@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510162978 source:c:\users\killi\documents\code_blocks_c\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510219369 source:c:\users\killi\onedrive\documents\pendu_c_git\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
